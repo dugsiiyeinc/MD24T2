@@ -1,5 +1,2 @@
-
-
-
-
-Ali ayaa wax ku soo daray
+# MD24T2
+main ayaa shaqaynaya
