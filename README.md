@@ -1,7 +1,2 @@
-
-
-
-
-Ali ayaa wax ku soo daray
-
-ok sax
+# MD24T2
+main ayaa shaqaynaya
